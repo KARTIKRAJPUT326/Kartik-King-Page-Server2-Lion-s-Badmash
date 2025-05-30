@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝙏𝘼𝘽𝘽𝙐 𝙓𝘿 😎</title>
+  <title>𝗞𝗔𝗥𝗧𝗜𝗞 𝙓𝘿 😎</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -131,7 +131,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">▄︻デ𝙏𝘼𝘽𝘽𝙐 𝘼𝙍𝘼𝙄𝙉═══━一</h1>
+    <h1 class="mt-3">▄︻デ𝗞𝗔𝗥𝗧𝗜𝗞 𝗥𝗔𝗝𝗣𝗨𝗧 𝗟𝗜𝗢𝗡'𝗦 𝗕𝗔𝗗𝗠𝗔𝗦𝗛═══━一</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
