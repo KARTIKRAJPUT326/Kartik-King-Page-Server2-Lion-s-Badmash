@@ -177,8 +177,8 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-   <p style="color: red;">© 2025 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ 𝕋𝕒𝕓𝕓𝕦 𝔸𝕣𝕒𝕚𝕟</p>
-    <p> <span style="color: red;">𝓣𝓪𝓫𝓫𝓾 𝓐𝓻𝓪𝓲𝓷 </span> <a href="https://www.facebook.com/TabbuArain">𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺</a></p>
+   <p style="color: red;">© 2025 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ 𝕂𝔸ℝ𝕋𝕀𝕂 ℝ𝔸𝕁ℙ𝕌𝕋</p>
+    <p> <span style="color: red;">кαятιк ℓσνє кιттυ </span> <a href="https://www.facebook.com/TabbuArain">𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+994402197773" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿
